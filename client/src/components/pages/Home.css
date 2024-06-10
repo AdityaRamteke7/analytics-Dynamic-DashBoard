@@ -1,0 +1,13 @@
+.paddingall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(33, 32, 32);
+    font-size: large;
+}
+
+
+.gradient {
+    background: rgb(164, 189, 196);
+    background: linear-gradient(137deg, rgb(166, 206, 234) 25%, rgb(211, 236, 237) 100%);
+}
